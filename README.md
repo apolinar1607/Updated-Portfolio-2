@@ -30,10 +30,10 @@ LinkedIn and Github pages in the About Me Page as shown below:
 
 
 ## The application could be accessed using the following link:
-https://apolinar1607.github.io/Updated-Portfolio/
+https://apolinar1607.github.io/Updated-Portfolio-2/
 
 ## The repo for the application could be accessed using the following link:
-https://github.com/apolinar1607/Updated-Portfolio.git
+https://github.com/apolinar1607/Updated-Portfolio-2.git
 
 
 
