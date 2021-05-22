@@ -9,7 +9,7 @@ Some enhancement were done in this project particularly the use of Bootstrap 5 t
 Background image and google fonts were also added to improve the typography of the pages.
 
 
-In the Portfolio page, three of the homeworks, project1 and project3 were highlighted. 
+In the Portfolio page, three homeworks, project1, and project3 were highlighted. 
 
 
 To open deployed project URL and Github repository, click the icons below each project/homework image:
