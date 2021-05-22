@@ -1,4 +1,4 @@
-# Update Portfolio
+# Update Portfolio 2
 
 This project is an updated version of the 'Responsive Portfolio using Bootstrap' project.
 
@@ -9,16 +9,19 @@ Some enhancement were done in this project particularly the use of Bootstrap 5 t
 Background image and google fonts were also added to improve the typography of the pages.
 
 
-In the Portfolio page, two of the homework assignments and project 1 were highlighted. 
+In the Portfolio page, three of the homeworks, project1 and project3 were highlighted. 
 
 
-To open the URL for the project or homework, click the green icon below each project/homework image:
+To open deployed project URL and Github repository, click the icons below each project/homework image:
 
 
-![Project Link](./img/project-link.PNG)
+
+![Deployed Project Link](./img/project-link.PNG)
+
+![Deployed Project Link](./img/github-link.PNG)
 
 
-In addition, I have also added link to my linkedIn and Github pages in the About Me Page as shown below:
+LinkedIn and Github pages in the About Me Page as shown below:
 
 
 ![Social Media Page](./img/social-media-page.PNG)
