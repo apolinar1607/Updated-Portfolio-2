@@ -28,9 +28,6 @@ LinkedIn and Github pages in the About Me Page as shown below:
 
 
 
-Furthermore, in my Github page, I have update my Github profile with pinned repositories featuring project 1 and two exemplary assignments.
-
-
 
 ## The application could be accessed using the following link:
 https://apolinar1607.github.io/Updated-Portfolio/
