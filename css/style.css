@@ -1,0 +1,164 @@
+.container {
+    margin-left: 25px;
+    margin-right: 25px;
+    border: pink 1px solid;
+}
+.myNameBox {
+    background-color: rgb(130, 131, 127);
+    display: block;    
+    text-align: center;
+}
+
+#myTitle {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+.myNameFont {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+.myMainMenuBox {
+    padding: 5px;
+    display: flex;  
+    background: url("../img/bar-bg.jpg") repeat-x;
+    height: 84px;
+}
+.tableList {
+    display: table;
+    margin: 0 auto;
+}
+#myMenuList{
+    min-width: 200px;
+    list-style: none;
+    padding-top: 10px;
+}
+#myMenuList li{
+    display: inline;
+}
+.myMainMenuFont {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    color:rgb(8, 7, 7);
+    padding: 5px;
+    margin: 5px 20px 5px 20px;
+}
+.jumbotron {
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.stickyFooter {
+    height: 70px;
+    background-color:  rgb(102, 105, 105);
+    border-top: 10px rgb(40, 170, 164) solid;
+}
+.spanTxt {
+    color: white;
+
+}
+
+body {
+    background-image: url("../img/renewable-energy.jpg"); 
+    background-size: cover;
+}
+hr {
+    border: 5px solid red
+}
+
+#linked-icon {
+    font-size: 30px;
+    color: blue
+}
+
+#github-icon {
+    font-size: 30px;
+}
+
+.about-me-content {
+    font-family: 'Architects Daughter', cursive;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgb(221, 219, 219);
+    width: 900px;
+    margin-left: 5px;
+    padding: 5px;
+}
+
+.about-me-content-div {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between; 
+}
+
+.aboutImage {
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
+
+@media screen and (max-width: 641px){
+    .aboutImage {
+        width: 100%;
+    }
+}
+/*Small devices*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .aboutImage {
+        width: 100%;
+    }
+}
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 979.98px) {
+   .aboutImage {
+       width: 50%;
+   } 
+}
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 980px) and (max-width: 1199.98px) {
+    .aboutImage {
+        width: 30%;
+    }
+}
+/*Extra large devices (large desktops, 1200px and up)*/
+ @media (min-width: 1200px) {
+    .aboutImage {
+        width: 20%;
+    }
+ }
+ figcaption {
+    position: absolute;
+    background-color: rgb(40, 170, 164);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font: 16px 'Times New Roman', Times, serif;
+    color: white;
+    bottom: 25px;
+    width: 250px;
+    height: 50px;   
+}
+
+#img-weather, #img-pwd, #img-burger, #img-project1, #img-project2{
+    height: 200px;
+    display: block;
+}
+
+#img-weather, #img-project1, #img-project2 {
+    width: 400px;
+    
+}
+
+#works, #projects {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.work-text {
+    width: 320px;
+    color: white;
+}
